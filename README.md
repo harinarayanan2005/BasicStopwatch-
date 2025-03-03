@@ -1,5 +1,4 @@
 Basic Stopwatch using Python
-
 This repository contains a simple stopwatch application built using Python. The stopwatch has basic functionality such as start, stop, and reset.
 
 Features:
