@@ -8,7 +8,7 @@ Features:
 - Reset the stopwatch
 
 Installation:
-1. Clone the repository: git clone https://github.com/harinarayanan2005/basic-stopwatch-python.git
+1. Clone the repository
 2. Navigate to the project directory: cd basic-stopwatch-python
 3. (Optional) Create a virtual environment: python -m venv venv; source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 4. Install the required packages: pip install -r requirements.txt
